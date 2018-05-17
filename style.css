@@ -1,0 +1,74 @@
+
+#text {
+    color: #cba;
+}
+
+#back {
+    min-width:900px;
+    padding:220px;
+ 	background-image: url("http://localhost:8888/ImagesSearch/Images/P.jpg");
+}
+#back1 {
+    padding:10px;
+	background-color: white;
+}
+
+#Menu {
+    position:absolute;        
+	top:320px;
+	left:250px;
+	width:150px;
+	padding:10px;
+	font-style: bold;
+}
+
+#Line {
+    position:absolute;       
+    height:200px;
+	top:230px;
+	left:400px;
+	padding-top:10px;
+
+}
+
+#Pic {
+    height:200px;
+    width:750px;
+    left:480px;
+	padding-left:200px;
+	padding-top:10px;
+}
+
+h2  {
+        color: black;
+}
+
+h6  {
+        font-style: italic;
+        font-family: 'Times New Roman';
+}
+
+#text {
+        color: #F6358A;
+        font-style: italic;
+        font-family: 'Times New Roman';
+} 
+
+#subdescription{
+        text-align: center;
+        padding-left:70px;
+        padding-right:70px;
+        font-weight: bold;
+}
+
+a:link, a:visited {  
+        color: black;  
+}  
+      
+body#home a#homelink,
+body#feedback a#feedbacklink,
+body#list a#listlink,
+body#add a#addlink{  
+color: #F6358A;
+font-weight:bold;
+}  
